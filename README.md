@@ -21,6 +21,11 @@
 - 💻 Interested in Software Development
 - 🚀 Always ready to learn and explore new technologies
 
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hk5818171-tech&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+</p>
+
 ### 🛠️ Languages & Technologies
 - Java
 - C++
