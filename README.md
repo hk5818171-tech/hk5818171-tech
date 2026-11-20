@@ -34,9 +34,6 @@
 - HTML
 - CSS
 - JavaScript
-- React
-- Node.js
-- MongoDB
 
 ###  2026 Goals
 - Improve DSA and problem-solving skills
@@ -68,6 +65,6 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,cpp,python,html,css,js,react,nodejs,mongodb,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,cpp,python,html,css,js,mysql,git,github,vscode" />
 </p>
 
