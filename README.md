@@ -3,6 +3,12 @@
 
 <h3 align="center">B.Tech CSE Student | Aspiring Software Developer</h3>
 
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;B.Tech+CSE+Student;Java+%7C+C%2B%2B+%7C+Python;Learning+MERN+Stack;Aspiring+Software+Developer" />
+</p>
+
+
 <p align="center">
   Passionate about learning new technologies and building useful projects.
 </p>
