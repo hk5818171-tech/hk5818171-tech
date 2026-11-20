@@ -55,3 +55,13 @@
   <img src="https://github-readme-stats.vercel.app/api?username=hk5818171-tech&show_icons=true&theme=tokyonight" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hk5818171-tech&layout=compact&theme=tokyonight" height="165"/>
 </p>
+
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,cpp,python,html,css,js,react,nodejs,mongodb,mysql,git,github,vscode" />
+</p>
+
