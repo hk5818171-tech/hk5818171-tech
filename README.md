@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Happy Tiwari</h1>
+<h1 align="center">Hii , I'm Happy Tiwari</h1>
 
 <h3 align="center">B.Tech CSE Student | Aspiring Software Developer</h3>
 
@@ -21,11 +21,11 @@
 
 ---
 
-### 👨‍💻 About Me
-- 🎓 B.Tech Computer Science Engineering Student
-- 🌱 Currently learning MERN Stack
-- 💻 Interested in Software Development
-- 🚀 Always ready to learn and explore new technologies
+###  About Me
+-  B.Tech Computer Science Engineering Student
+-  Currently learning MERN Stack
+-  Interested in Software Development
+-  Always ready to learn and explore new technologies
 
 ### 🛠️ Languages & Technologies
 - Java
@@ -38,13 +38,13 @@
 - Node.js
 - MongoDB
 
-### 🎯 2026 Goals
+###  2026 Goals
 - Improve DSA and problem-solving skills
 - Build real-world projects
 - Improve English communication
 - Become a better software developer
 
-### 📫 Connect With Me
+###  Connect With Me
 - GitHub: https://github.com/hk5818171-tech
 
 ---
