@@ -5,6 +5,12 @@
 
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hk5818171-tech&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+</p>
+
+
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;B.Tech+CSE+Student;Java+%7C+C%2B%2B+%7C+Python;Learning+MERN+Stack;Aspiring+Software+Developer" />
 </p>
 
@@ -20,11 +26,6 @@
 - 🌱 Currently learning MERN Stack
 - 💻 Interested in Software Development
 - 🚀 Always ready to learn and explore new technologies
-
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hk5818171-tech&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
-</p>
 
 ### 🛠️ Languages & Technologies
 - Java
