@@ -46,3 +46,12 @@
 <p align="center">
   ⭐ Thanks for visiting my profile!
 </p>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hk5818171-tech&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hk5818171-tech&layout=compact&theme=tokyonight" height="165"/>
+</p>
